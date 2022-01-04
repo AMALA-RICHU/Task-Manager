@@ -1,0 +1,10 @@
+<h1>Editing activity</h1>
+
+<%= render "form", activity: @activity, class:"form-control" %>
+
+<br>
+
+<div>
+  <%= link_to "Show this activity", @activity, class:"btn btn-secondary" %> |
+  <%= link_to "Back to activities", activities_path, class:"btn btn-secondary" %>
+</div>

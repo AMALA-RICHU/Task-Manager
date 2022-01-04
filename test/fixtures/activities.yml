@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  TaskName: MyString
+  Priority: MyString
+  Date: 2022-01-04
+  Progress: MyString
+  Note: MyString
+
+two:
+  TaskName: MyString
+  Priority: MyString
+  Date: 2022-01-04
+  Progress: MyString
+  Note: MyString
